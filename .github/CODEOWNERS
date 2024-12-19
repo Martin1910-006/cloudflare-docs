@@ -30,7 +30,7 @@
 # Analytics & Logs
 
 /src/content/docs/analytics/ @46bit @bharatnc @jherre @jimhawkridge @soheiokamoto @victor-perov @angelampcosta @cloudflare/pcx-technical-writing
-/src/content/docs/data-localization/ @soheiokamoto @angelampcosta @cloudflare/pcx-technical-writing
+/src/content/docs/data-initialization/ @soheiokamoto @angelampcosta @cloudflare/pcx-technical-writing
 /src/content/docs/logs/ @cmackenzie1 @bharatnc @jherre @soheiokamoto @victor-perov @angelampcosta @cloudflare/pcx-technical-writing
 
 # API & Zones
@@ -215,6 +215,4 @@
 /src/content/docs/waiting-room/ @angelampcosta @cloudflare/pcx-technical-writing
 /src/content/changelogs/waiting-room.yaml @angelampcosta @cloudflare/pcx-technical-writing
 
-# Web Analytics
-
-/src/content/docs/web-analytics/ @angelampcosta @cloudflare/pcx-technical-writing
+# Web Analytics.whatsapp
